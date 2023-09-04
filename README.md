@@ -10,7 +10,7 @@ and a BSc from the [Department of Informatics and Telecommunications](https://ww
 
 - **Syntax-Aware Mutation for Testing the Solidity Compiler**.\
 <u>Charalambos Mitropoulos</u>, Thodoris Sotiropoulos, Sotiris Ioannidis, Dimitris Mitropoulos\
-ESORICS'23.\ 
+ESORICS'23.
 
 - **Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers**.\
 Stefanos Chaliasos, Thodoris Sotiropoulos, Georgios-Petros Drosos, Charalambos Mitropoulos, Dimitris Mitropoulos, and Diomidis Spinellis.\
