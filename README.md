@@ -8,4 +8,8 @@ and a BSc from the [Department of Informatics and Telecommunications](https://ww
 
 ## Publications
 
-- Stefanos Chaliasos, Thodoris Sotiropoulos, Georgios-Petros Drosos, Charalambos Mitropoulos, Dimitris Mitropoulos, and Diomidis Spinellis. Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers. In Proceedings of the ACM on Programming Languages, OOPSLA '21. ACM, October 2021 https://dl.acm.org/doi/pdf/10.1145/3485500.
+- ** Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers **.
+
+Stefanos Chaliasos, Thodoris Sotiropoulos, Georgios-Petros Drosos, Charalambos Mitropoulos, Dimitris Mitropoulos, and Diomidis Spinellis.
+
+OOPSLA '21. ACM, October 2021 [https://dl.acm.org/doi/pdf/10.1145/3485500](https://dl.acm.org/doi/pdf/10.1145/3485500).
