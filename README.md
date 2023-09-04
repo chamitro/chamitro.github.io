@@ -9,7 +9,7 @@ and a BSc from the [Department of Informatics and Telecommunications](https://ww
 ## Publications
 
 - **Syntax-Aware Mutation for Testing the Solidity Compiler**.\
-<u>Charalambos Mitropoulos<u>, Thodoris Sotiropoulos, Sotiris Ioannidis, Dimitris Mitropoulos\
+<u>Charalambos Mitropoulos</u>, Thodoris Sotiropoulos, Sotiris Ioannidis, Dimitris Mitropoulos\
 ESORICS'23.\ 
 
 - **Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers**.\
@@ -17,7 +17,7 @@ Stefanos Chaliasos, Thodoris Sotiropoulos, Georgios-Petros Drosos, Charalambos M
 OOPSLA'21.\
  [https://dl.acm.org/doi/pdf/10.1145/3485500](https://dl.acm.org/doi/pdf/10.1145/3485500).
 
-- ** Employing different program analysis methods to study bug evolution**.\
+- **Employing different program analysis methods to study bug evolution**.\
 Charalambos Mitropoulos\
 FSE'19.\
 [https://dl.acm.org/doi/abs/10.1145/3338906.3342489](https://dl.acm.org/doi/abs/10.1145/3338906.3342489).
