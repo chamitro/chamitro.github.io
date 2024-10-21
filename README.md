@@ -10,7 +10,7 @@ and a BSc from the [Department of Informatics and Telecommunications](https://ww
 
 ## Publications
 
-- <u>Charalambos Mitropoulos</u>, Thodoris Sotiropoulos, Sotiris Ioannidis, Dimitris Mitropoulos. **[Syntax-Aware Mutation for Testing the Solidity Compiler](https://link.springer.com/chapter/10.1007/978-3-031-51479-1_17)**. In Proceedings of the 28th European Symposium on Research in Computer Security (ESORICS '23). Pages 327–347. Springer. September 2023.
+- <u>Charalambos Mitropoulos</u>, Thodoris Sotiropoulos, Sotiris Ioannidis, Dimitris Mitropoulos. **<a href="https://link.springer.com/chapter/10.1007/978-3-031-51479-1_17" style="text-decoration: none; color: inherit;">Syntax-Aware Mutation for Testing the Solidity Compiler</a>**. In Proceedings of the 28th European Symposium on Research in Computer Security (ESORICS '23). Pages 327–347. Springer. September 2023.
 
 - Stefanos Chaliasos, Thodoris Sotiropoulos, Georgios-Petros Drosos, <u>Charalambos Mitropoulos</u>, Dimitris Mitropoulos, and Diomidis Spinellis. **[Well-typed programs can go wrong: a study of typing-related bugs in JVM compilers](https://dl.acm.org/doi/pdf/10.1145/3485500)**. 	In Proceedings of the ACM on Programming Languages, Volume 5, Issue OOPSLA (part of SPLASH 2021). Article No. 123. Pages 1-30. October 2021.
 
