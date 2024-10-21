@@ -2,9 +2,9 @@ PhD Candidate, Technical University of Crete, Greece
 
 ## About
 
-Charalambos Mitropoulos is a PhD candidate at the <a href="https://www.tuc.gr/en/home" style="text-decoration: none; color: inherit;">Technical University of Crete</a>.  
-Charalambos holds an MSc in Information Systems from the Department of Informatics of the <a href="https://www.aueb.gr/" style="text-decoration: none; color: inherit;">Athens University of Economics and Business</a>,  
-and a BSc from the <a href="https://www.di.uoa.gr/" style="text-decoration: none; color: inherit;">Department of Informatics and Telecommunications</a> of the National and Kapodistrian University of Athens.
+Charalambos Mitropoulos is a PhD candidate at the _<a href="https://www.tuc.gr/en/home" style="text-decoration: none; color: inherit;">Technical University of Crete</a>_.  
+Charalambos holds an MSc in Information Systems from the Department of Informatics of the _<a href="https://www.aueb.gr/" style="text-decoration: none; color: inherit;">Athens University of Economics and Business</a>_,  
+and a BSc from the _<a href="https://www.di.uoa.gr/" style="text-decoration: none; color: inherit;">Department of Informatics and Telecommunications</a>_ of the National and Kapodistrian University of Athens.
 
 ## Publications
 
