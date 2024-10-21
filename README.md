@@ -19,17 +19,17 @@ and a BSc from the _<a href="https://www.di.uoa.gr/" style="text-decoration: non
 
 ## Projects
 
-- **SecOPERA: Secure Open-source softwarE and hardwaRe Adaptable framework**. Funded by the European Commission (HORIZON-CL3-2021-CS-01-02). 2023-Today.
+- **<a href="https://secopera.eu/" style="text-decoration: none; color: inherit;">SecOPERA: Secure Open-source softwarE and hardwaRe Adaptable framework</a>**. Funded by the European Commission (HORIZON-CL3-2021-CS-01-02). 2023-Today.
 
-- **CyberSecPro: Collaborative, Multi-modal and Agile Professional Cybersecurity Training Program for A Skilled Workforce In the European Digital Single Market and Industries**.     Funded by Accreditation Council for Entrepreneurial and Engaged Universities (ACEEU). 2023-2024.
+- **<a href="https://www.cybersecpro-project.eu/" style="text-decoration: none; color: inherit;">CyberSecPro: Collaborative, Multi-modal and Agile Professional Cybersecurity Training Program for A Skilled Workforce In the European Digital Single Market and Industries</a>**. Funded by Accreditation Council for Entrepreneurial and Engaged Universities (ACEEU). 2023-2024.
 
-- **IntellioT: Intelligent, distributed, human-centered and trustworthy IoT environments / IntellIoT**. Funded by European Commission (HORIZON 2020, ref. number: 60030).
+- **<a href="https://intelliot.eu/" style="text-decoration: none; color: inherit;">IntellioT: Intelligent, distributed, human-centered and trustworthy IoT environments / IntellIoT</a>**. Funded by European Commission (HORIZON 2020, ref. number: 60030).
 
 ## Talks
 
 - **Seminar Presentation @AUEB’s BALAB (2023):** Syntax-Aware Mutation for Testing the Solidity Compiler
 
-- **PL-Seminar @National Technical University of Athens, Software Engineering Laboratory:** Syntax-Aware Mutation for Testing the Solidity Compiler
+- **PL-Seminar @National Technical University of Athens, Software Engineering Laboratory (2023):** Syntax-Aware Mutation for Testing the Solidity Compiler
 
 - **Seminar Presentation @AUEB’s BALAB (2024):** Broken Agreement: The Evolution of Solidity Error Handling
 
