@@ -1,6 +1,6 @@
 PhD Candidate, Technical University of Crete, Greece
 
-Charalambos Mitropoulos is a PhD candidate at the _<a href="https://www.tuc.gr/en/home" style="text-decoration: none; color: inherit;">Technical University of Crete</a>_, under the supervision of Associate Professor Sotiris Ioannidis.Charalambos holds an MSc in Information Systems from the Department of Informatics of the _<a href="https://www.aueb.gr/" style="text-decoration: none; color: inherit;">Athens University of Economics and Business</a>_, and a BSc from the _<a href="https://www.di.uoa.gr/" style="text-decoration: none; color: inherit;">Department of Informatics and Telecommunications</a>_ of the National and Kapodistrian University of Athens.
+Charalambos Mitropoulos is a PhD candidate at the _<a href="https://www.tuc.gr/en/home" style="text-decoration: none; color: inherit;">Technical University of Crete</a>_, under the supervision of Associate Professor Sotiris Ioannidis. Charalambos holds an MSc in Information Systems from the Department of Informatics of the _<a href="https://www.aueb.gr/" style="text-decoration: none; color: inherit;">Athens University of Economics and Business</a>_, and a BSc from the _<a href="https://www.di.uoa.gr/" style="text-decoration: none; color: inherit;">Department of Informatics and Telecommunications</a>_ of the National and Kapodistrian University of Athens.
 
 His main research interests involve Software Testing, Blockchain security and Program Analysis.
 
@@ -21,7 +21,7 @@ His main research interests involve Software Testing, Blockchain security and Pr
 
 - **<a href="https://www.cybersecpro-project.eu/" style="text-decoration: none; color: inherit;">CyberSecPro: Collaborative, Multi-modal and Agile Professional Cybersecurity Training Program for A Skilled Workforce In the European Digital Single Market and Industries</a>**. Funded by Accreditation Council for Entrepreneurial and Engaged Universities (ACEEU). 2023-2024.
 
-- **<a href="https://sentinel-project.eu//" style="text-decoration: none; color: inherit;">Bridging the security, privacy and data protection gap for smaller enterprises in Europe — SENTINEL</a>**. Funded by European Commission (HORIZON 2020, ref. number: 82886). 2023-2024.
+- **<a href="https://sentinel-project.eu//" style="text-decoration: none; color: inherit;">Bridging the security, privacy and data protection gap for smaller enterprises in Europe - SENTINEL</a>**. Funded by European Commission (HORIZON 2020, ref. number: 82886). 2023-2024.
 
 - **<a href="https://intelliot.eu/" style="text-decoration: none; color: inherit;">IntellioT: Intelligent, distributed, human-centered and trustworthy IoT environments / IntellIoT</a>**. Funded by European Commission (HORIZON 2020, ref. number: 60030). 2022-2023.
 
