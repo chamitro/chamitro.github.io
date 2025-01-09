@@ -1,12 +1,12 @@
 PhD Candidate, Technical University of Crete, Greece
 
-Charalambos Mitropoulos is a PhD candidate at the _<a href="https://www.tuc.gr/en/home" style="text-decoration: none; color: inherit;">Technical University of Crete</a>_, under the supervision of Associate Professor Sotiris Ioannidis. Charalambos holds an MSc in Information Systems from the Department of Informatics of the _<a href="https://www.aueb.gr/" style="text-decoration: none; color: inherit;">Athens University of Economics and Business</a>_, and a BSc from the _<a href="https://www.di.uoa.gr/" style="text-decoration: none; color: inherit;">Department of Informatics and Telecommunications</a>_ of the National and Kapodistrian University of Athens.
+Charalambos Mitropoulos is a PhD candidate at the _<a href="https://www.tuc.gr/en/home" style="text-decoration: none; color: inherit;">Technical University of Crete</a>_, under the supervision of Associate Professor Sotiris Ioannidis. Charalambos holds an MSc in Information Systems from the Department of Informatics of the _<a href="https://www.aueb.gr/" style="text-decoration: none; color: inherit;">Athens University of Economics and Business</a>_, and a BSc from the _<a href="https://www.di.uoa.gr/" style="text-decoration: none; color: inherit;">Department of Informatics and Telecommunications</a>_ of the National and Kapodistrian University of Athens. For my detailed CV, please follow this 
 
 His main research interests involve Software Testing, Blockchain security and Program Analysis.
 
 ## Publications
 
-- <u>Charalambos Mitropoulos</u>, Maria Kechagia, Chrysostomos Maschas, Sotiris Ioannidis, Federica Sarro, and Dimitris Mitropoulos. *<a href="https://dimitro.gr/assets/papers/MKMISM24.pdf" style="text-decoration: none; color: inherit;">Broken agreement: The evolution of Solidity error handling</a>*. In Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM ’24). 2024. To appear.
+- <u>Charalambos Mitropoulos</u>, Maria Kechagia, Chrysostomos Maschas, Sotiris Ioannidis, Federica Sarro, and Dimitris Mitropoulos. *<a href="https://dl.acm.org/doi/10.1145/3674805.3686686" style="text-decoration: none; color: inherit;">Broken agreement: The evolution of Solidity error handling</a>*. In Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM ’24). 2024. Pages 257 - 268 . October 2024. 
 
 - <u>Charalambos Mitropoulos</u>, Thodoris Sotiropoulos, Sotiris Ioannidis, Dimitris Mitropoulos. *<a href="https://link.springer.com/chapter/10.1007/978-3-031-51479-1_17" style="text-decoration: none; color: inherit;">Syntax-Aware Mutation for Testing the Solidity Compiler</a>*. In Proceedings of the 28th European Symposium on Research in Computer Security (ESORICS '23). Pages 327–347. Springer. September 2023.
 
