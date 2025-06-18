@@ -25,6 +25,10 @@ His main research interests involve Software Testing, Blockchain security and Pr
 
 - **<a href="https://intelliot.eu/" style="text-decoration: none; color: inherit;">IntellioT: Intelligent, distributed, human-centered and trustworthy IoT environments / IntellIoT</a>**. Funded by European Commission (HORIZON 2020, ref. number: 60030). 2022-2023.
 
+##PC Member
+
+- **2025:** ISSTA (Artifact Evaluation Committee)
+
 ## Talks
 
 - **Seminar Presentation @AUEB’s BALAB (2023):** Syntax-Aware Mutation for Testing the Solidity Compiler
