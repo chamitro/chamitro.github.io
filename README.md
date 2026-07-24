@@ -30,7 +30,7 @@ His main research interests involve Software Testing, Blockchain security and Pr
 ## PC Member
 
 - **2025:** ISSTA (Artifact Evaluation Committee)
-- **2026:** TSE Journal (Reviewer)
+- **2026:** TSE Journal
 
 ## Talks
 
