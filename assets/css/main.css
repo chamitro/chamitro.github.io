@@ -1,0 +1,342 @@
+/* al-folio-inspired styles */
+:root {
+  --global-bg-color: #ffffff;
+  --global-text-color: #404040;
+  --global-text-color-light: #757575;
+  --global-theme-color: #b509ac;
+  --global-hover-color: #b509ac;
+  --global-divider-color: rgba(0, 0, 0, 0.1);
+  --global-card-bg-color: #ffffff;
+  --global-badge-bg: #f4f4f4;
+  --max-content-width: 800px;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #1c1c1d;
+  --global-text-color: #e8e8e8;
+  --global-text-color-light: #e8e8e8;
+  --global-theme-color: #2698ba;
+  --global-hover-color: #2698ba;
+  --global-divider-color: #424246;
+  --global-card-bg-color: #212529;
+  --global-badge-bg: #2b2b2e;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--global-hover-color);
+  text-decoration: underline;
+}
+
+/* ---------- Navbar ---------- */
+nav.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background-color: var(--global-bg-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.08);
+  transition: background-color 0.3s ease;
+}
+
+.navbar-inner {
+  max-width: var(--max-content-width);
+  margin: 0 auto;
+  padding: 0.6rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.navbar-inner ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-inner a.nav-link {
+  color: var(--global-text-color);
+  padding: 0.35rem 0.65rem;
+  font-size: 0.95rem;
+}
+
+.navbar-inner a.nav-link:hover {
+  color: var(--global-hover-color);
+  text-decoration: none;
+}
+
+#light-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--global-text-color);
+  font-size: 1rem;
+  padding: 0.35rem 0.55rem;
+}
+
+#light-toggle:hover {
+  color: var(--global-hover-color);
+}
+
+/* ---------- Main content ---------- */
+.container {
+  max-width: var(--max-content-width);
+  margin: 0 auto;
+  padding: 6rem 1rem 2rem;
+}
+
+.post-title {
+  font-family: "Roboto Slab", Georgia, "Times New Roman", serif;
+  font-size: 2.6rem;
+  font-weight: 300;
+  margin: 0 0 0.4rem;
+  color: var(--global-text-color);
+}
+
+.post-title .font-weight-bold {
+  font-weight: 700;
+}
+
+p.desc {
+  font-size: 1.05rem;
+  color: var(--global-text-color-light);
+  margin: 0 0 1.5rem;
+}
+
+p.desc a {
+  color: inherit;
+}
+
+.profile {
+  float: right;
+  width: 32%;
+  margin: 0 0 1rem 1.5rem;
+}
+
+.profile img {
+  width: 100%;
+  border-radius: 0.4rem;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+section h2 {
+  font-family: "Roboto Slab", Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 2.2rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+section h2 a.section-anchor {
+  color: inherit;
+}
+
+section h2 a.section-anchor:hover {
+  color: var(--global-hover-color);
+  text-decoration: none;
+}
+
+/* ---------- Publications ---------- */
+ol.bibliography {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ol.bibliography > li {
+  margin-bottom: 1.4rem;
+}
+
+.pub-row {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.pub-badge {
+  flex: 0 0 7.2rem;
+  text-align: center;
+}
+
+.pub-badge abbr {
+  display: inline-block;
+  background-color: var(--global-badge-bg);
+  color: var(--global-text-color);
+  border-radius: 0.35rem;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.78rem;
+  font-weight: 500;
+  text-decoration: none;
+  cursor: default;
+  white-space: nowrap;
+}
+
+.pub-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-content .title {
+  font-weight: 500;
+}
+
+.pub-content .title a {
+  color: inherit;
+}
+
+.pub-content .author,
+.pub-content .periodical {
+  font-size: 0.92rem;
+  color: var(--global-text-color-light);
+}
+
+.pub-content .author em {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.pub-links {
+  margin-top: 0.4rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 0.3rem;
+  color: var(--global-theme-color);
+  font-size: 0.78rem;
+  padding: 0.15rem 0.55rem;
+  margin-right: 0.3rem;
+}
+
+.pub-links a:hover {
+  background-color: var(--global-theme-color);
+  color: var(--global-bg-color);
+  text-decoration: none;
+}
+
+/* ---------- Generic lists (projects, talks, service) ---------- */
+ul.styled-list {
+  padding-left: 1.2rem;
+  margin: 0;
+}
+
+ul.styled-list li {
+  margin-bottom: 0.8rem;
+}
+
+ul.styled-list li a {
+  color: inherit;
+  font-weight: 500;
+}
+
+ul.styled-list li a:hover {
+  color: var(--global-hover-color);
+}
+
+.muted {
+  color: var(--global-text-color-light);
+  font-size: 0.92rem;
+}
+
+/* ---------- Social / contact ---------- */
+.social {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.contact-icons {
+  font-size: 2.2rem;
+}
+
+.contact-icons a {
+  color: var(--global-text-color);
+  margin: 0 0.4rem;
+}
+
+.contact-icons a:hover {
+  color: var(--global-hover-color);
+  text-decoration: none;
+}
+
+.contact-note {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  margin-top: 0.5rem;
+}
+
+/* ---------- Footer ---------- */
+footer {
+  border-top: 1px solid var(--global-divider-color);
+  margin-top: 3rem;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 600px) {
+  .post-title {
+    font-size: 2rem;
+  }
+
+  .profile {
+    float: none;
+    width: 60%;
+    margin: 0 auto 1rem;
+    display: block;
+  }
+
+  .pub-row {
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .pub-badge {
+    flex: none;
+    text-align: left;
+  }
+
+  .navbar-inner {
+    justify-content: center;
+  }
+}
