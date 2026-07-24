@@ -6,6 +6,8 @@ His main research interests involve Software Testing, Blockchain security and Pr
 
 ## Publications
 
+- <u>Charalambos Mitropoulos</u>, Dimitrios Vlachos, Vaggelis Saroukos, Sotiris Ioannidis and Dimitris Mitropoulos. *<a href="https://dimitro.gr/assets/pdf/MVSIM26.pdf" style="text-decoration: none; color: inherit;">Tetris for Gas: State Variable Mutation for Reducing Smart Contract Deployment Costs</a>*. ACM Distributed Ledger Technologies: Research and Practice, July 2026. To appear.
+  
 - <u>Charalambos Mitropoulos</u>, Maria Kechagia, Chrysostomos Maschas, Sotiris Ioannidis, Federica Sarro, and Dimitris Mitropoulos. *<a href="https://dl.acm.org/doi/10.1145/3674805.3686686" style="text-decoration: none; color: inherit;">Broken agreement: The evolution of Solidity error handling</a>*. In Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM ’24). 2024. Pages 257 - 268 . October 2024. 
 
 - <u>Charalambos Mitropoulos</u>, Thodoris Sotiropoulos, Sotiris Ioannidis, Dimitris Mitropoulos. *<a href="https://link.springer.com/chapter/10.1007/978-3-031-51479-1_17" style="text-decoration: none; color: inherit;">Syntax-Aware Mutation for Testing the Solidity Compiler</a>*. In Proceedings of the 28th European Symposium on Research in Computer Security (ESORICS '23). Pages 327–347. Springer. September 2023.
